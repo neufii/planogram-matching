@@ -10,7 +10,7 @@ The retail industry hinges on the strategic utilisation of planograms to effecti
 graph LR
     A[/Shelf Image/] -->B[Object Detection Module]
     B --> C[Planogram Matching Module]
-    D --> C[/Corresponding Planogram/]
+    D[/Corresponding Planogram/] --> C
     C --> E[Output Display Module]
 ```
 
