@@ -1,0 +1,24 @@
+{
+"oggetti": [
+{ "width": 0.953291, "height":0.483369, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Candy/Chocolate/118.jpg"},
+{ "width": 0.866242, "height":0.439756, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Candy/Chocolate/13.jpg"},
+{ "width": 0.849788, "height":0.448514, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Candy/Chocolate/44.jpg"},
+{ "width": 0.80414, "height":0.381369, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Candy/Chocolate/36.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":13,"e":12,"se":14,"s":1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":0,"ne":12,"e":14,"se":11,"s":2,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":1,"ne":14,"e":11,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":8,"s":4,"sw":12,"w":13,"ogg":2},
+{"nw":13,"n":3,"ne":7,"e":8,"se":9,"s":6,"sw":14,"w":12,"ogg":2},
+{"nw":14,"n":6,"ne":9,"e":10,"se":-1,"s":-1,"sw":-1,"w":11,"ogg":2},
+{"nw":12,"n":4,"ne":8,"e":9,"se":10,"s":5,"sw":11,"w":14,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":8,"sw":4,"w":3,"ogg":3},
+{"nw":3,"n":7,"ne":-1,"e":-1,"se":-1,"s":9,"sw":6,"w":4,"ogg":3},
+{"nw":4,"n":8,"ne":-1,"e":-1,"se":-1,"s":10,"sw":5,"w":6,"ogg":3},
+{"nw":6,"n":9,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":3},
+{"nw":1,"n":14,"ne":6,"e":5,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":13,"ne":3,"e":4,"se":6,"s":14,"sw":1,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":12,"sw":0,"w":-1,"ogg":1},
+{"nw":0,"n":12,"ne":4,"e":6,"se":5,"s":11,"sw":2,"w":1,"ogg":1}]
+}

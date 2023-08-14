@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.819048, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Oil-Vinegar/50.jpg"},
+{ "width": 0.554762, "height":0.764286, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Oil-Vinegar/51.jpg"},
+{ "width": 0.654762, "height":0.759524, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Oil-Vinegar/52.jpg"},
+{ "width": 0.238095, "height":0.728571, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Oil-Vinegar/53.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":3,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":2,"s":-1,"sw":-1,"w":-1,"ogg":3}]
+}

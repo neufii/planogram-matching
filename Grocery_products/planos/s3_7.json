@@ -1,0 +1,30 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.75082, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/57.jpg"},
+{ "width": 0.909016, "height":0.726229, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/44.jpg"},
+{ "width": 0.681967, "height":0.925, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/48.jpg"},
+{ "width": 0.76612, "height":1.19781, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/53.jpg"},
+{ "width": 0.668443, "height":1.13238, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/43.jpg"},
+{ "width": 1.00656, "height":1.0459, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/42.jpg"},
+{ "width": 0.75082, "height":1.17869, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/52.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":8,"s":-1,"sw":-1,"w":14,"ogg":1},
+{"nw":16,"n":3,"ne":7,"e":-1,"se":-1,"s":-1,"sw":-1,"w":15,"ogg":3},
+{"nw":-1,"n":10,"ne":-1,"e":13,"se":15,"s":6,"sw":-1,"w":-1,"ogg":4},
+{"nw":-1,"n":17,"ne":-1,"e":7,"se":9,"s":1,"sw":15,"w":16,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":8,"se":7,"s":-1,"sw":-1,"w":17,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":8,"sw":17,"w":0,"ogg":1},
+{"nw":-1,"n":2,"ne":16,"e":15,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":17,"n":8,"ne":-1,"e":-1,"se":-1,"s":9,"sw":1,"w":3,"ogg":0},
+{"nw":0,"n":5,"ne":-1,"e":-1,"se":-1,"s":7,"sw":-1,"w":4,"ogg":5},
+{"nw":3,"n":7,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":6},
+{"nw":-1,"n":11,"ne":-1,"e":12,"se":-1,"s":2,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":14,"se":12,"s":10,"sw":-1,"w":-1,"ogg":1},
+{"nw":11,"n":14,"ne":-1,"e":17,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":16,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":17,"s":12,"sw":-1,"w":11,"ogg":1},
+{"nw":2,"n":16,"ne":3,"e":1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":1,"s":15,"sw":6,"w":13,"ogg":4},
+{"nw":14,"n":-1,"ne":5,"e":4,"se":7,"s":3,"sw":-1,"w":12,"ogg":2}]
+}

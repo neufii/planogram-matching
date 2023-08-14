@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.860759, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/43.jpg"},
+{ "width": 0.71308, "height":0.727848, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/49.jpg"},
+{ "width": 0.455696, "height":0.896624, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/-1.jpg"},
+{ "width": 0.42827, "height":0.721519, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/82.jpg"},
+{ "width": 1.00422, "height":0.672996, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/56.jpg"},
+{ "width": 1.0654, "height":0.742616, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/57.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":5,"s":4,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":5,"sw":4,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":5,"sw":-1,"w":1,"ogg":2},
+{"nw":-1,"n":3,"ne":-1,"e":4,"se":-1,"s":3,"sw":-1,"w":3,"ogg":3},
+{"nw":-1,"n":0,"ne":1,"e":5,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":4},
+{"nw":0,"n":2,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":5}]
+}

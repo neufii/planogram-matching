@@ -1,0 +1,19 @@
+{
+"oggetti": [
+{ "width": 1.02918, "height":0.507492, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/54.jpg"},
+{ "width": 1.26814, "height":0.817035, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/55.jpg"},
+{ "width": 1.43297, "height":0.934543, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/45.jpg"},
+{ "width": 1.26972, "height":0.722397, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/43.jpg"}
+],
+"grafo":[
+{"nw":1,"n":7,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":0},
+{"nw":-1,"n":-1,"ne":9,"e":8,"se":0,"s":5,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":9,"w":6,"ogg":2},
+{"nw":9,"n":2,"ne":-1,"e":-1,"se":-1,"s":4,"sw":7,"w":8,"ogg":3},
+{"nw":7,"n":3,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0},
+{"nw":-1,"n":1,"ne":7,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":9,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":8,"ne":3,"e":-1,"se":4,"s":0,"sw":5,"w":-1,"ogg":0},
+{"nw":-1,"n":9,"ne":-1,"e":3,"se":-1,"s":7,"sw":-1,"w":1,"ogg":3},
+{"nw":-1,"n":6,"ne":2,"e":-1,"se":3,"s":8,"sw":1,"w":-1,"ogg":3}]
+}

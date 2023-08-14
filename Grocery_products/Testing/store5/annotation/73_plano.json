@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.917816, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/129.jpg"},
+{ "width": 0.244346, "height":0.29123, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/131.jpg"},
+{ "width": 0.509101, "height":0.826255, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/119.jpg"},
+{ "width": 0.294539, "height":0.935466, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/120.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":0,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3}]
+}

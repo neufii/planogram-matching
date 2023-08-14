@@ -1,0 +1,14 @@
+{
+"oggetti": [
+{ "width": 0.797753, "height":1.8736, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/140.jpg"},
+{ "width": 2.89326, "height":1.82022, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/55.jpg"},
+{ "width": 2.57303, "height":1.86236, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/145.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":3,"ne":2,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":3,"n":2,"ne":5,"e":4,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":4,"s":1,"sw":0,"w":3,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":1,"s":0,"sw":-1,"w":-1,"ogg":1},
+{"nw":2,"n":5,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":4,"sw":1,"w":2,"ogg":0}]
+}

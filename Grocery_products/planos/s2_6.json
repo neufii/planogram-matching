@@ -1,0 +1,32 @@
+{
+"oggetti": [
+{ "width": 0.890678, "height":0.705085, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/49.jpg"},
+{ "width": 0.989266, "height":0.599435, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/32.jpg"},
+{ "width": 1.14831, "height":0.658475, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/50.jpg"},
+{ "width": 1.00551, "height":0.64322, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/51.jpg"},
+{ "width": 1.15085, "height":0.50565, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/31.jpg"},
+{ "width": 1.04025, "height":0.628814, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/78.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":18,"e":19,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":5,"s":3,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":3,"ne":20,"e":18,"se":19,"s":0,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":1,"ne":-1,"e":20,"se":18,"s":2,"sw":-1,"w":-1,"ogg":2},
+{"nw":18,"n":5,"ne":9,"e":8,"se":-1,"s":-1,"sw":-1,"w":19,"ogg":3},
+{"nw":1,"n":6,"ne":11,"e":9,"se":8,"s":4,"sw":19,"w":18,"ogg":3},
+{"nw":-1,"n":7,"ne":12,"e":11,"se":9,"s":5,"sw":18,"w":20,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":12,"se":11,"s":6,"sw":20,"w":1,"ogg":1},
+{"nw":5,"n":10,"ne":16,"e":13,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":4},
+{"nw":6,"n":11,"ne":14,"e":17,"se":16,"s":10,"sw":4,"w":5,"ogg":4},
+{"nw":-1,"n":9,"ne":17,"e":16,"se":13,"s":8,"sw":-1,"w":-1,"ogg":4},
+{"nw":7,"n":12,"ne":15,"e":14,"se":17,"s":9,"sw":5,"w":6,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":15,"se":14,"s":11,"sw":6,"w":7,"ogg":5},
+{"nw":10,"n":16,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":8,"ogg":4},
+{"nw":12,"n":15,"ne":-1,"e":-1,"se":-1,"s":17,"sw":9,"w":11,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":14,"sw":11,"w":12,"ogg":5},
+{"nw":9,"n":17,"ne":-1,"e":-1,"se":-1,"s":13,"sw":8,"w":10,"ogg":4},
+{"nw":11,"n":14,"ne":-1,"e":-1,"se":-1,"s":16,"sw":10,"w":9,"ogg":4},
+{"nw":3,"n":20,"ne":6,"e":5,"se":4,"s":19,"sw":0,"w":2,"ogg":3},
+{"nw":2,"n":18,"ne":5,"e":4,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":3},
+{"nw":-1,"n":-1,"ne":7,"e":6,"se":-1,"s":18,"sw":2,"w":3,"ogg":1}]
+}

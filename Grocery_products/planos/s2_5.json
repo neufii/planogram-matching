@@ -1,0 +1,26 @@
+{
+"oggetti": [
+{ "width": 0.973228, "height":0.649869, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/32.jpg"},
+{ "width": 0.584252, "height":0.934646, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/64.jpg"},
+{ "width": 0.549606, "height":0.889764, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/67.jpg"},
+{ "width": 0.567717, "height":0.908661, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/70.jpg"},
+{ "width": 1.06102, "height":0.658268, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/78.jpg"},
+{ "width": 0.551181, "height":0.810236, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/66.jpg"}
+],
+"grafo":[
+{"nw":12,"n":1,"ne":4,"e":5,"se":-1,"s":-1,"sw":-1,"w":13,"ogg":0},
+{"nw":14,"n":2,"ne":6,"e":4,"se":5,"s":0,"sw":13,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":1,"sw":-1,"w":14,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":8,"s":4,"sw":-1,"w":2,"ogg":1},
+{"nw":2,"n":3,"ne":7,"e":8,"se":9,"s":5,"sw":0,"w":1,"ogg":4},
+{"nw":1,"n":4,"ne":8,"e":9,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":-1,"s":-1,"sw":1,"w":3,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":-1,"s":8,"sw":4,"w":6,"ogg":5},
+{"nw":3,"n":7,"ne":11,"e":-1,"se":-1,"s":9,"sw":5,"w":4,"ogg":4},
+{"nw":4,"n":8,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":-1,"s":-1,"sw":-1,"w":7,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":8,"w":10,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":14,"se":0,"s":13,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":12,"ne":1,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":1,"s":-1,"sw":-1,"w":12,"ogg":2}]
+}

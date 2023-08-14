@@ -1,0 +1,12 @@
+{
+"oggetti": [
+{ "width": 1.16414, "height":1.26515, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/6.jpg"},
+{ "width": 1.43939, "height":1.59697, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/-1.jpg"},
+{ "width": 0.560606, "height":1.34141, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/35.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":1,"e":3,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":0,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":3,"s":0,"sw":-1,"w":-1,"ogg":2},
+{"nw":2,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0}]
+}

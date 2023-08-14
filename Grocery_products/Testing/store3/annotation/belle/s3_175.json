@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.369691, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Milk/13.jpg"},
+{ "width": 0.361969, "height":0.323359, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Milk/12.jpg"},
+{ "width": 0.675676, "height":0.30695, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Milk/14.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":2,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":0,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2}]
+}

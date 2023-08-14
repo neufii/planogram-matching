@@ -1,0 +1,22 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.624138, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/43.jpg"},
+{ "width": 1.15172, "height":1.39655, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/76.jpg"},
+{ "width": 1.53448, "height":0.424138, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/69.jpg"},
+{ "width": 0.9, "height":0.986207, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/86.jpg"},
+{ "width": 1.09828, "height":0.522414, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/-1.jpg"},
+{ "width": 1.55517, "height":0.789655, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/89.jpg"},
+{ "width": 0.837931, "height":0.541379, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/92.jpg"},
+{ "width": 1.51034, "height":0.675862, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/82.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":4,"s":3,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":5,"sw":4,"w":0,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":6},
+{"nw":-1,"n":0,"ne":-1,"e":4,"se":7,"s":6,"sw":-1,"w":-1,"ogg":1},
+{"nw":0,"n":-1,"ne":1,"e":5,"se":8,"s":7,"sw":6,"w":3,"ogg":3},
+{"nw":-1,"n":1,"ne":-1,"e":-1,"se":-1,"s":8,"sw":7,"w":4,"ogg":5},
+{"nw":-1,"n":3,"ne":4,"e":7,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":7},
+{"nw":3,"n":4,"ne":5,"e":8,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":4},
+{"nw":4,"n":5,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":7,"ogg":0}]
+}

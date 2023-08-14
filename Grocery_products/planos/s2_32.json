@@ -1,0 +1,34 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.678846, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/9.jpg"},
+{ "width": 1.26346, "height":0.776923, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/72.jpg"},
+{ "width": 1.18654, "height":0.682051, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/10.jpg"},
+{ "width": 1.32019, "height":0.723077, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/36.jpg"},
+{ "width": 1.18462, "height":0.634615, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/79.jpg"},
+{ "width": 1.06635, "height":0.589423, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/2.jpg"},
+{ "width": 1.025, "height":0.611538, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/24.jpg"},
+{ "width": 0.861058, "height":0.614423, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Tea/42.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":20,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":6,"s":-1,"sw":18,"w":17,"ogg":3},
+{"nw":-1,"n":3,"ne":-1,"e":9,"se":-1,"s":-1,"sw":-1,"w":20,"ogg":2},
+{"nw":19,"n":-1,"ne":8,"e":-1,"se":9,"s":2,"sw":20,"w":-1,"ogg":2},
+{"nw":18,"n":5,"ne":6,"e":8,"se":-1,"s":-1,"sw":-1,"w":19,"ogg":4},
+{"nw":17,"n":-1,"ne":7,"e":6,"se":8,"s":4,"sw":19,"w":18,"ogg":4},
+{"nw":1,"n":-1,"ne":13,"e":11,"se":12,"s":8,"sw":4,"w":5,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":13,"se":14,"s":-1,"sw":5,"w":1,"ogg":1},
+{"nw":5,"n":6,"ne":11,"e":12,"se":10,"s":-1,"sw":3,"w":4,"ogg":4},
+{"nw":3,"n":-1,"ne":10,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":5},
+{"nw":8,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":9,"w":-1,"ogg":5},
+{"nw":7,"n":-1,"ne":-1,"e":14,"se":15,"s":12,"sw":8,"w":6,"ogg":7},
+{"nw":6,"n":11,"ne":14,"e":15,"se":-1,"s":-1,"sw":-1,"w":8,"ogg":7},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":6,"w":7,"ogg":1},
+{"nw":7,"n":-1,"ne":-1,"e":-1,"se":-1,"s":15,"sw":12,"w":11,"ogg":7},
+{"nw":11,"n":14,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":12,"ogg":7},
+{"nw":-1,"n":-1,"ne":18,"e":19,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":5,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":1,"e":5,"se":4,"s":19,"sw":16,"w":-1,"ogg":4},
+{"nw":-1,"n":18,"ne":5,"e":4,"se":3,"s":-1,"sw":-1,"w":16,"ogg":4},
+{"nw":-1,"n":-1,"ne":3,"e":2,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":2}]
+}

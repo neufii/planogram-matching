@@ -1,0 +1,10 @@
+{
+"oggetti": [
+{ "width": 1.42445, "height":0.554945, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/39.jpg"},
+{ "width": 2.96703, "height":1.30495, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/DriedFruitsAndNuts/37.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":2,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":2,"s":2,"sw":2,"w":0,"ogg":0},
+{"nw":1,"n":1,"ne":1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1}]
+}

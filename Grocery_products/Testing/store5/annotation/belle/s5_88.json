@@ -1,0 +1,16 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.84874, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/323.jpg"},
+{ "width": 0.878151, "height":1.33613, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/220.jpg"},
+{ "width": 1.04832, "height":0.842437, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/-1.jpg"},
+{ "width": 1.02521, "height":1.56303, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/218.jpg"},
+{ "width": 0.676471, "height":0.823529, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/328.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":4,"ne":5,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":3,"e":2,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1},
+{"nw":4,"n":3,"ne":-1,"e":3,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":3},
+{"nw":-1,"n":5,"ne":-1,"e":-1,"se":-1,"s":2,"sw":1,"w":2,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":2,"s":0,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":0,"w":4,"ogg":2}]
+}

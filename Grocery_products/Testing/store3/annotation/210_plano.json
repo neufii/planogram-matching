@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.05294, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Pasta/-1.jpg"},
+{ "width": 2.15, "height":1.12647, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Pasta/64.jpg"},
+{ "width": 2.00882, "height":0.891176, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Pasta/58.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":2,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":2,"sw":-1,"w":0,"ogg":1},
+{"nw":0,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2}]
+}

@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.796748, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/11.jpg"},
+{ "width": 1.13415, "height":0.341463, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/22.jpg"},
+{ "width": 0.268293, "height":0.589431, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/42.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":0,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":2}]
+}

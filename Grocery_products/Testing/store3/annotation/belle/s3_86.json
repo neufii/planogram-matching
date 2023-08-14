@@ -1,0 +1,19 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.54206, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/46.jpg"},
+{ "width": 2.03738, "height":1.62617, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/70.jpg"},
+{ "width": 1.17757, "height":1.46729, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/45.jpg"},
+{ "width": 1.38318, "height":1.48598, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/71.jpg"},
+{ "width": 1.15888, "height":1.54673, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/87.jpg"},
+{ "width": 0.864486, "height":1.47196, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/SoftDrinks/53.jpg"},
+{ "width": 1.03738, "height":0.859813, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/36.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":3,"e":5,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":5,"s":0,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":6,"s":5,"sw":0,"w":2,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":6,"sw":5,"w":3,"ogg":4},
+{"nw":2,"n":3,"ne":4,"e":6,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":5},
+{"nw":3,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":6}]
+}

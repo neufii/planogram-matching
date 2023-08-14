@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.0655542, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Chips/44.jpg"},
+{ "width": 0.480334, "height":0.429082, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Chips/57.jpg"},
+{ "width": 0.791418, "height":0.365912, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Chips/48.jpg"},
+{ "width": 0.476758, "height":0.300358, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Chips/43.jpg"}
+],
+"grafo":[
+{"nw":3,"n":2,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":3,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":0,"sw":-1,"w":1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":0,"s":1,"sw":-1,"w":-1,"ogg":0}]
+}

@@ -1,0 +1,9 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.924006, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/98.jpg"},
+{ "width": 1.08736, "height":1.01491, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/107.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1}]
+}

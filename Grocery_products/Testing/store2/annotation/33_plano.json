@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.228743, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Tea/42.jpg"},
+{ "width": 0.865868, "height":0.542515, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Tea/53.jpg"},
+{ "width": 0.385629, "height":0.446707, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Tea/2.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":1,"s":-1,"sw":2,"w":-1,"ogg":0},
+{"nw":0,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":0,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2}]
+}

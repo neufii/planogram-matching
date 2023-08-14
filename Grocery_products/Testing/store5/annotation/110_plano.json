@@ -1,0 +1,15 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.18129, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Canned/15.jpg"},
+{ "width": 0.788743, "height":1.22076, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Canned/-1.jpg"},
+{ "width": 0.866959, "height":0.954678, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Canned/6.jpg"},
+{ "width": 0.252924, "height":0.953947, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Canned/4.jpg"},
+{ "width": 0.723684, "height":0.924708, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Canned/87.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":3,"s":2,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":4,"sw":2,"w":0,"ogg":0},
+{"nw":-1,"n":0,"ne":1,"e":3,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":0,"n":1,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":4},
+{"nw":-1,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":3}]
+}

@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1.63435, "height":1.29252, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Chips/39.jpg"},
+{ "width": 2.98469, "height":1.30612, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Chips/38.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":2,"e":-1,"se":1,"s":3,"sw":-1,"w":-1,"ogg":0},
+{"nw":0,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":0,"w":-1,"ogg":0},
+{"nw":-1,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1}]
+}

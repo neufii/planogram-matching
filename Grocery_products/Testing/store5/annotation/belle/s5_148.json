@@ -1,0 +1,7 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.24094, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Cheese/148.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0}]
+}

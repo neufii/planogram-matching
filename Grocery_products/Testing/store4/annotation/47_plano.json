@@ -1,0 +1,12 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.996947, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/IceTea/14.jpg"},
+{ "width": 0.800382, "height":0.958779, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/IceTea/-1.jpg"},
+{ "width": 1.06183, "height":0.842748, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/IceTea/15.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":1,"ne":2,"e":3,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":3,"s":0,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":0,"w":1,"ogg":1},
+{"nw":1,"n":2,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1}]
+}

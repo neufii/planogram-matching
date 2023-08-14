@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.4821, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Milk/13.jpg"},
+{ "width": 1.28401, "height":0.285203, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Milk/12.jpg"},
+{ "width": 0.300716, "height":0.466587, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Milk/29.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":2,"ne":2,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":1,"w":0,"ogg":2}]
+}

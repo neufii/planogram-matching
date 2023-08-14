@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.874094, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/12.jpg"},
+{ "width": 0.884058, "height":0.226449, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/6.jpg"},
+{ "width": 0.733696, "height":0.855072, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/24.jpg"},
+{ "width": 1.23641, "height":0.907609, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/33.jpg"},
+{ "width": 1.49819, "height":0.207428, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/10.jpg"},
+{ "width": 0.942029, "height":0.565217, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Biscuits/4.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":2,"s":-1,"sw":2,"w":-1,"ogg":1},
+{"nw":-1,"n":3,"ne":-1,"e":4,"se":5,"s":-1,"sw":-1,"w":2,"ogg":3},
+{"nw":0,"n":-1,"ne":3,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":4,"s":1,"sw":2,"w":0,"ogg":4},
+{"nw":3,"n":-1,"ne":-1,"e":-1,"se":-1,"s":5,"sw":-1,"w":1,"ogg":2},
+{"nw":1,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5}]
+}

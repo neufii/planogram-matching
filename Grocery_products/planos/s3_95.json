@@ -1,0 +1,36 @@
+{
+"oggetti": [
+{ "width": 1.43636, "height":2.73896, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/85.jpg"},
+{ "width": 1.69156, "height":5.64286, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/83.jpg"},
+{ "width": 1.96104, "height":4.59091, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/78.jpg"},
+{ "width": 1.24675, "height":4.44156, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/66.jpg"},
+{ "width": 1.45942, "height":4.48214, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/79.jpg"},
+{ "width": 1.52435, "height":5.36526, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/62.jpg"},
+{ "width": 2.09253, "height":3.98377, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/73.jpg"},
+{ "width": 2.02273, "height":5.48052, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Drinks/Juices/25.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":20,"w":21,"ogg":0},
+{"nw":21,"n":2,"ne":-1,"e":4,"se":8,"s":3,"sw":22,"w":20,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":7,"s":1,"sw":20,"w":0,"ogg":0},
+{"nw":20,"n":1,"ne":7,"e":-1,"se":-1,"s":-1,"sw":-1,"w":22,"ogg":2},
+{"nw":21,"n":-1,"ne":-1,"e":5,"se":8,"s":-1,"sw":22,"w":1,"ogg":4},
+{"nw":2,"n":-1,"ne":-1,"e":7,"se":8,"s":-1,"sw":3,"w":4,"ogg":4},
+{"nw":-1,"n":-1,"ne":15,"e":17,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5},
+{"nw":2,"n":-1,"ne":-1,"e":9,"se":10,"s":8,"sw":3,"w":5,"ogg":4},
+{"nw":5,"n":9,"ne":11,"e":10,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":12,"s":8,"sw":-1,"w":7,"ogg":4},
+{"nw":7,"n":-1,"ne":13,"e":12,"se":-1,"s":-1,"sw":-1,"w":8,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":13,"se":14,"s":12,"sw":8,"w":9,"ogg":7},
+{"nw":9,"n":11,"ne":-1,"e":14,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":14,"sw":10,"w":11,"ogg":7},
+{"nw":11,"n":13,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":12,"ogg":6},
+{"nw":-1,"n":-1,"ne":21,"e":-1,"se":22,"s":-1,"sw":6,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":19,"se":20,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":15,"n":-1,"ne":20,"e":18,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":5},
+{"nw":15,"n":-1,"ne":20,"e":22,"se":-1,"s":-1,"sw":-1,"w":17,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":21,"se":20,"s":-1,"sw":-1,"w":16,"ogg":0},
+{"nw":19,"n":21,"ne":2,"e":1,"se":3,"s":22,"sw":18,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":4,"s":20,"sw":15,"w":19,"ogg":0},
+{"nw":15,"n":20,"ne":4,"e":3,"se":-1,"s":-1,"sw":-1,"w":18,"ogg":5}]
+}

@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":3.92808, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/17.jpg"},
+{ "width": 10.8459, "height":3.41781, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/3.jpg"},
+{ "width": 1.73973, "height":3.86301, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/14.jpg"},
+{ "width": 1.96575, "height":3.64041, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/4.jpg"},
+{ "width": 2.75342, "height":3.98973, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/13.jpg"},
+{ "width": 2.17123, "height":3.94178, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Oil-Vinegar/15.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":0,"sw":-1,"w":3,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":0}]
+}

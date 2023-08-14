@@ -1,0 +1,21 @@
+{
+"oggetti": [
+{ "width": 0.808453, "height":1.79959, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Pasta/29.jpg"},
+{ "width": 1.3272, "height":2.10429, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Pasta/62.jpg"},
+{ "width": 1.51943, "height":2.07362, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Pasta/17.jpg"},
+{ "width": 0.926892, "height":1.71166, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Pasta/73.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":9,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":4,"ne":-1,"e":5,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":2,"sw":-1,"w":11,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":-1,"s":2,"sw":-1,"w":3,"ogg":3},
+{"nw":-1,"n":6,"ne":-1,"e":7,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":8,"se":-1,"s":5,"sw":-1,"w":4,"ogg":3},
+{"nw":-1,"n":8,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":7,"sw":-1,"w":6,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0},
+{"nw":-1,"n":11,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":-1,"s":10,"sw":-1,"w":9,"ogg":0}]
+}

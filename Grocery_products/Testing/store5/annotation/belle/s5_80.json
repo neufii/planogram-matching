@@ -1,0 +1,15 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.3815, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Yoghurt/101.jpg"},
+{ "width": 1.55347, "height":1.43931, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Yoghurt/228.jpg"},
+{ "width": 1.86705, "height":1.84971, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Yoghurt/227.jpg"},
+{ "width": 0.763006, "height":1.47399, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Yoghurt/98.jpg"},
+{ "width": 1.0578, "height":1.85549, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Dairy/Yoghurt/116.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":1,"sw":2,"w":-1,"ogg":1},
+{"nw":-1,"n":0,"ne":3,"e":4,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":-1,"n":-1,"ne":0,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":4,"sw":1,"w":0,"ogg":0},
+{"nw":0,"n":3,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":3}]
+}

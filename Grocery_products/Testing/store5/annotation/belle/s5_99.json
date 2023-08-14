@@ -1,0 +1,16 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.375492, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Spices/119.jpg"},
+{ "width": 0.456447, "height":0.406742, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Spices/-1.jpg"},
+{ "width": 0.417323, "height":0.493602, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Spices/115.jpg"},
+{ "width": 0.294291, "height":0.474902, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Spices/114.jpg"},
+{ "width": 0.500984, "height":0.501476, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Spices/91.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":5,"s":4,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":5,"sw":2,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":1,"e":5,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":0,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":1},
+{"nw":0,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":4}]
+}

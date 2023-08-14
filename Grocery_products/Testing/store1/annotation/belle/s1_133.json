@@ -1,0 +1,21 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.09645, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/28.jpg"},
+{ "width": 1.41117, "height":0.857868, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/19.jpg"},
+{ "width": 0.598985, "height":0.649746, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/20.jpg"},
+{ "width": 1.00508, "height":1.03046, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/29.jpg"},
+{ "width": 0.857868, "height":1.16751, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/31.jpg"},
+{ "width": 0.898477, "height":0.994924, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/2.jpg"},
+{ "width": 0.609137, "height":0.837563, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/22.jpg"},
+{ "width": 0.897208, "height":0.954315, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Snacks/35.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":6,"s":3,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":4,"s":6,"sw":3,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":4,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":0,"ne":1,"e":4,"se":-1,"s":7,"sw":-1,"w":-1,"ogg":3},
+{"nw":1,"n":2,"ne":-1,"e":-1,"se":-1,"s":5,"sw":6,"w":3,"ogg":4},
+{"nw":-1,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":5},
+{"nw":0,"n":1,"ne":4,"e":5,"se":-1,"s":-1,"sw":-1,"w":7,"ogg":7},
+{"nw":-1,"n":3,"ne":-1,"e":6,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":6}]
+}

@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.597468, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/69.jpg"},
+{ "width": 1.02278, "height":0.637975, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/68.jpg"},
+{ "width": 1.03038, "height":0.35443, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/12.jpg"},
+{ "width": 0.491139, "height":0.736709, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/23.jpg"},
+{ "width": 0.534177, "height":0.572152, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/1.jpg"},
+{ "width": 0.192405, "height":0.367089, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Bonbons/27.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":1,"e":3,"se":-1,"s":4,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":0,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":3,"s":0,"sw":-1,"w":-1,"ogg":3},
+{"nw":2,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":4,"w":0,"ogg":4},
+{"nw":-1,"n":0,"ne":3,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5}]
+}

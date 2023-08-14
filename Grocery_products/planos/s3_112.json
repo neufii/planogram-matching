@@ -1,0 +1,23 @@
+{
+"oggetti": [
+{ "width": 0.858936, "height":1.18907, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/13.jpg"},
+{ "width": 0.806499, "height":1.07976, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/8.jpg"},
+{ "width": 0.867061, "height":1.24028, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/12.jpg"},
+{ "width": 0.838996, "height":1.09503, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/6.jpg"},
+{ "width": 0.645495, "height":0.982275, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/32.jpg"},
+{ "width": 0.610044, "height":1.08863, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Rice/19.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":1,"ne":9,"e":10,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":9,"se":11,"s":0,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":11,"sw":10,"w":9,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":6,"s":4,"sw":11,"w":2,"ogg":3},
+{"nw":2,"n":3,"ne":5,"e":6,"se":-1,"s":-1,"sw":-1,"w":11,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":8,"s":6,"sw":4,"w":3,"ogg":3},
+{"nw":3,"n":5,"ne":7,"e":8,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":8,"sw":6,"w":5,"ogg":4},
+{"nw":5,"n":7,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":10,"sw":0,"w":1,"ogg":1},
+{"nw":-1,"n":9,"ne":2,"e":11,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0},
+{"nw":1,"n":2,"ne":3,"e":4,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":2}]
+}

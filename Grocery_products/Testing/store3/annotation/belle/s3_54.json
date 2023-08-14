@@ -1,0 +1,18 @@
+{
+"oggetti": [
+{ "width": 1, "height":2.13043, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/75.jpg"},
+{ "width": 1.33043, "height":1.52174, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/53.jpg"},
+{ "width": 3.68261, "height":2.61304, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/71.jpg"},
+{ "width": 1, "height":2.33043, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/6.jpg"},
+{ "width": 2.49565, "height":1.21739, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/70.jpg"},
+{ "width": 1.18261, "height":2.52174, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Water/54.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":1,"s":4,"sw":-1,"w":-1,"ogg":1},
+{"nw":0,"n":3,"ne":-1,"e":5,"se":-1,"s":2,"sw":6,"w":4,"ogg":2},
+{"nw":4,"n":1,"ne":5,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":5,"s":1,"sw":4,"w":0,"ogg":4},
+{"nw":-1,"n":0,"ne":3,"e":1,"se":2,"s":6,"sw":-1,"w":-1,"ogg":0},
+{"nw":3,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":2,"w":1,"ogg":3},
+{"nw":-1,"n":4,"ne":1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5}]
+}

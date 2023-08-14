@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1.00049, "height":2.04167, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Coffee/11.jpg"},
+{ "width": 4.69531, "height":1.75, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Coffee/19.jpg"},
+{ "width": 3.25781, "height":1.90625, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Coffee/12.jpg"},
+{ "width": 1.03125, "height":1.52344, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Coffee/10.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":-1,"w":-1,"ogg":1},
+{"nw":3,"n":0,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":-1,"n":3,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":1,"s":2,"sw":-1,"w":-1,"ogg":0}]
+}

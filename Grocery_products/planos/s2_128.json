@@ -1,0 +1,23 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.71157, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/18.jpg"},
+{ "width": 0.917098, "height":1.1494, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/85.jpg"},
+{ "width": 0.850604, "height":1.29361, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/52.jpg"},
+{ "width": 0.871618, "height":1.52677, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/23.jpg"},
+{ "width": 1.28325, "height":1.33506, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/53.jpg"},
+{ "width": 0.479562, "height":1.07772, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Coffee/19.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":8,"ne":10,"e":9,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":2,"s":-1,"sw":9,"w":10,"ogg":2},
+{"nw":1,"n":3,"ne":5,"e":4,"se":-1,"s":-1,"sw":-1,"w":11,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":-1,"s":2,"sw":11,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":2,"w":3,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":11,"s":-1,"sw":-1,"w":8,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":-1,"s":0,"sw":-1,"w":-1,"ogg":5},
+{"nw":-1,"n":-1,"ne":1,"e":11,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":-1,"sw":0,"w":7,"ogg":5},
+{"nw":7,"n":-1,"ne":3,"e":2,"se":-1,"s":-1,"sw":-1,"w":9,"ogg":3}]
+}

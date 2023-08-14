@@ -1,0 +1,30 @@
+{
+"oggetti": [
+{ "width": 1.03965, "height":1.15198, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/66.jpg"},
+{ "width": 0.906021, "height":1.24596, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/96.jpg"},
+{ "width": 0.800661, "height":1.13877, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/51.jpg"},
+{ "width": 0.895374, "height":1.1641, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/139.jpg"},
+{ "width": 1.04515, "height":1.67181, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/97.jpg"},
+{ "width": 0.909692, "height":1.52203, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/99.jpg"},
+{ "width": 0.889868, "height":1.23789, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/140.jpg"},
+{ "width": 0.861233, "height":1.26652, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Cereals/98.jpg"}
+],
+"grafo":[
+{"nw":14,"n":1,"ne":-1,"e":5,"se":-1,"s":-1,"sw":-1,"w":12,"ogg":0},
+{"nw":13,"n":2,"ne":4,"e":-1,"se":5,"s":0,"sw":12,"w":14,"ogg":1},
+{"nw":11,"n":16,"ne":3,"e":4,"se":-1,"s":1,"sw":14,"w":13,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":9,"s":4,"sw":2,"w":16,"ogg":4},
+{"nw":16,"n":3,"ne":10,"e":9,"se":-1,"s":-1,"sw":1,"w":2,"ogg":6},
+{"nw":1,"n":-1,"ne":-1,"e":8,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":2},
+{"nw":-1,"n":-1,"ne":13,"e":14,"se":12,"s":7,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":6,"ne":14,"e":12,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":2},
+{"nw":3,"n":10,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":7},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":9,"sw":4,"w":3,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":16,"se":2,"s":13,"sw":-1,"w":15,"ogg":4},
+{"nw":6,"n":14,"ne":1,"e":0,"se":-1,"s":-1,"sw":-1,"w":7,"ogg":0},
+{"nw":15,"n":11,"ne":16,"e":2,"se":1,"s":14,"sw":6,"w":-1,"ogg":3},
+{"nw":-1,"n":13,"ne":2,"e":1,"se":0,"s":12,"sw":7,"w":6,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":13,"s":-1,"sw":-1,"w":-1,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":2,"sw":13,"w":11,"ogg":4}]
+}

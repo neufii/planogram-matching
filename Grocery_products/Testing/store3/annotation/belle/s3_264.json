@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.349371, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Chocolate/79.jpg"},
+{ "width": 0.710771, "height":0.471843, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Chocolate/-1.jpg"},
+{ "width": 1.0175, "height":0.428103, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Chocolate/59.jpg"},
+{ "width": 0.741935, "height":0.390924, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Candy/Chocolate/169.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":1,"s":2,"sw":-1,"w":-1,"ogg":0},
+{"nw":0,"n":3,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":-1,"n":0,"ne":3,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":2,"w":0,"ogg":3}]
+}

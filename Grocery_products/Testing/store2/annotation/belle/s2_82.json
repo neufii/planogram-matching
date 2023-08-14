@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.372771, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/61.jpg"},
+{ "width": 0.293355, "height":0.388979, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/65.jpg"},
+{ "width": 0.489465, "height":0.319287, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/31.jpg"},
+{ "width": 1.45219, "height":0.842788, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/DriedFruitsAndNuts/27.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":3,"sw":-1,"w":2,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":3,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":2,"n":0,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3}]
+}

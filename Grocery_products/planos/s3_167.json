@@ -1,0 +1,20 @@
+{
+"oggetti": [
+{ "width": 0.715342, "height":2.17788, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Drinks/Milk/29.jpg"},
+{ "width": 0.54893, "height":1.69266, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Drinks/Choco/12.jpg"},
+{ "width": 0.610474, "height":1.67813, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Drinks/Milk/34.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":9,"e":8,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":9,"n":2,"ne":6,"e":3,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":3,"s":1,"sw":10,"w":11,"ogg":2},
+{"nw":2,"n":4,"ne":-1,"e":7,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":7,"s":3,"sw":-1,"w":2,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":9,"se":10,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":7,"sw":1,"w":4,"ogg":2},
+{"nw":4,"n":6,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":0},
+{"nw":-1,"n":-1,"ne":11,"e":10,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":1,"s":-1,"sw":0,"w":5,"ogg":1},
+{"nw":5,"n":11,"ne":2,"e":1,"se":-1,"s":-1,"sw":-1,"w":8,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":10,"sw":8,"w":9,"ogg":2}]
+}

@@ -1,0 +1,21 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.162977, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/88.jpg"},
+{ "width": 0.344795, "height":0.370702, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/87.jpg"},
+{ "width": 0.74894, "height":0.382949, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/94.jpg"},
+{ "width": 0.487518, "height":0.184644, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/138.jpg"},
+{ "width": 0.983514, "height":0.414508, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/92.jpg"},
+{ "width": 0.464437, "height":0.364578, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/117.jpg"},
+{ "width": 0.229392, "height":0.335846, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/99.jpg"},
+{ "width": 0.299576, "height":0.391427, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Cereals/90.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":2,"s":-1,"sw":2,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":4,"s":4,"sw":2,"w":0,"ogg":3},
+{"nw":0,"n":-1,"ne":1,"e":4,"se":7,"s":6,"sw":5,"w":3,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":6,"s":5,"sw":-1,"w":-1,"ogg":6},
+{"nw":1,"n":1,"ne":-1,"e":-1,"se":-1,"s":7,"sw":6,"w":2,"ogg":7},
+{"nw":-1,"n":3,"ne":2,"e":6,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5},
+{"nw":3,"n":2,"ne":4,"e":7,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":2},
+{"nw":2,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":1}]
+}

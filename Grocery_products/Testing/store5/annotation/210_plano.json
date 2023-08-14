@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.979968, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/69.jpg"},
+{ "width": 1.56651, "height":1.01603, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/1.jpg"},
+{ "width": 1.47115, "height":0.8125, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/68.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":2,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":2,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":1,"s":0,"sw":-1,"w":-1,"ogg":2}]
+}

@@ -1,0 +1,27 @@
+{
+"oggetti": [
+{ "width": 1.19328, "height":1.78857, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/57.jpg"},
+{ "width": 0.966122, "height":0.805808, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/44.jpg"},
+{ "width": 0.800363, "height":1.37659, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/43.jpg"},
+{ "width": 0.993194, "height":1.07713, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/42.jpg"},
+{ "width": 1.46098, "height":1.01996, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/19.jpg"},
+{ "width": 0.955535, "height":1.15971, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Chips/48.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":13,"ne":12,"e":11,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":10,"n":15,"ne":-1,"e":-1,"se":4,"s":14,"sw":-1,"w":12,"ogg":3},
+{"nw":2,"n":-1,"ne":6,"e":4,"se":-1,"s":-1,"sw":-1,"w":14,"ogg":0},
+{"nw":2,"n":6,"ne":9,"e":8,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":0},
+{"nw":-1,"n":5,"ne":-1,"e":5,"se":-1,"s":5,"sw":14,"w":5,"ogg":3},
+{"nw":-1,"n":-1,"ne":7,"e":9,"se":8,"s":4,"sw":3,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":9,"sw":6,"w":-1,"ogg":4},
+{"nw":6,"n":9,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":0},
+{"nw":-1,"n":7,"ne":-1,"e":-1,"se":-1,"s":8,"sw":4,"w":6,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":15,"se":2,"s":13,"sw":-1,"w":0,"ogg":1},
+{"nw":-1,"n":12,"ne":-1,"e":14,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":14,"s":11,"sw":1,"w":13,"ogg":5},
+{"nw":-1,"n":10,"ne":15,"e":12,"se":14,"s":1,"sw":-1,"w":-1,"ogg":5},
+{"nw":13,"n":2,"ne":5,"e":3,"se":-1,"s":-1,"sw":-1,"w":11,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":2,"sw":13,"w":10,"ogg":1}]
+}

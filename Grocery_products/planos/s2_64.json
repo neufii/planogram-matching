@@ -1,0 +1,30 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.28947, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/13.jpg"},
+{ "width": 1.01196, "height":1.12081, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/18.jpg"},
+{ "width": 1.07057, "height":1.72767, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/21.jpg"},
+{ "width": 0.789474, "height":1.20395, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/96.jpg"},
+{ "width": 1.15789, "height":1.77871, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/1.jpg"},
+{ "width": 0.905502, "height":1.36304, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Jars-Cans/Spreads/3.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":14,"se":13,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":3,"ne":-1,"e":5,"se":6,"s":2,"sw":16,"w":15,"ogg":2},
+{"nw":15,"n":1,"ne":5,"e":6,"se":-1,"s":-1,"sw":-1,"w":16,"ogg":2},
+{"nw":18,"n":4,"ne":8,"e":7,"se":-1,"s":1,"sw":-1,"w":17,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":8,"se":7,"s":3,"sw":17,"w":18,"ogg":3},
+{"nw":-1,"n":7,"ne":-1,"e":10,"se":12,"s":6,"sw":2,"w":1,"ogg":2},
+{"nw":1,"n":5,"ne":10,"e":12,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":4,"n":8,"ne":9,"e":11,"se":-1,"s":5,"sw":-1,"w":3,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":9,"se":11,"s":7,"sw":3,"w":4,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":11,"sw":7,"w":8,"ogg":1},
+{"nw":-1,"n":11,"ne":-1,"e":-1,"se":-1,"s":12,"sw":6,"w":5,"ogg":4},
+{"nw":8,"n":9,"ne":-1,"e":-1,"se":-1,"s":10,"sw":-1,"w":7,"ogg":1},
+{"nw":5,"n":10,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":4},
+{"nw":0,"n":14,"ne":18,"e":17,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":18,"se":17,"s":13,"sw":-1,"w":0,"ogg":5},
+{"nw":-1,"n":17,"ne":-1,"e":1,"se":2,"s":16,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":15,"ne":1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":14,"n":18,"ne":4,"e":3,"se":-1,"s":15,"sw":-1,"w":13,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":3,"s":17,"sw":13,"w":14,"ogg":5}]
+}

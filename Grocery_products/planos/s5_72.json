@@ -1,0 +1,30 @@
+{
+"oggetti": [
+{ "width": 0.964204, "height":0.607961, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Biscuits/76.jpg"},
+{ "width": 0.900916, "height":0.420962, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Biscuits/74.jpg"},
+{ "width": 0.930842, "height":0.654639, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Biscuits/45.jpg"},
+{ "width": 0.897938, "height":0.561856, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Biscuits/80.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":7,"s":1,"sw":18,"w":17,"ogg":0},
+{"nw":17,"n":0,"ne":6,"e":7,"se":8,"s":2,"sw":4,"w":18,"ogg":0},
+{"nw":18,"n":1,"ne":8,"e":10,"se":9,"s":3,"sw":20,"w":19,"ogg":1},
+{"nw":19,"n":2,"ne":10,"e":9,"se":-1,"s":-1,"sw":-1,"w":20,"ogg":1},
+{"nw":-1,"n":16,"ne":1,"e":19,"se":20,"s":15,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":17,"se":18,"s":16,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":14,"se":13,"s":7,"sw":1,"w":0,"ogg":2},
+{"nw":0,"n":6,"ne":14,"e":13,"se":12,"s":8,"sw":19,"w":1,"ogg":2},
+{"nw":1,"n":7,"ne":13,"e":12,"se":11,"s":10,"sw":2,"w":-1,"ogg":3},
+{"nw":2,"n":10,"ne":11,"e":-1,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":3},
+{"nw":-1,"n":8,"ne":12,"e":11,"se":-1,"s":9,"sw":3,"w":2,"ogg":3},
+{"nw":8,"n":12,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":9,"w":10,"ogg":3},
+{"nw":7,"n":13,"ne":-1,"e":-1,"se":-1,"s":11,"sw":10,"w":8,"ogg":3},
+{"nw":6,"n":14,"ne":-1,"e":-1,"se":-1,"s":12,"sw":8,"w":7,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":13,"sw":7,"w":6,"ogg":2},
+{"nw":-1,"n":4,"ne":19,"e":20,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":5,"ne":17,"e":18,"se":19,"s":4,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":1,"s":18,"sw":16,"w":5,"ogg":0},
+{"nw":5,"n":17,"ne":0,"e":1,"se":2,"s":19,"sw":-1,"w":16,"ogg":0},
+{"nw":16,"n":18,"ne":7,"e":2,"se":3,"s":20,"sw":15,"w":4,"ogg":1},
+{"nw":4,"n":19,"ne":2,"e":3,"se":-1,"s":-1,"sw":-1,"w":15,"ogg":1}]
+}

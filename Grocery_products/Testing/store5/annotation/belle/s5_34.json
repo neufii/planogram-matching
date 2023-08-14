@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.301035, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Biscuits/69.jpg"},
+{ "width": 0.402948, "height":0.312637, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Biscuits/-1.jpg"},
+{ "width": 0.578551, "height":0.302916, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Biscuits/68.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":0,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":1}]
+}

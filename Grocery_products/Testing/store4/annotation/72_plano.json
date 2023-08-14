@@ -1,0 +1,21 @@
+{
+"oggetti": [
+{ "width": 1, "height":2.0246, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/111.jpg"},
+{ "width": 1.22431, "height":0.603473, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/102.jpg"},
+{ "width": 1.06802, "height":0.565847, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/57.jpg"},
+{ "width": 1.31983, "height":1.54124, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/98.jpg"},
+{ "width": 0.979739, "height":0.549928, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/65.jpg"},
+{ "width": 1.31693, "height":1.19103, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/96.jpg"},
+{ "width": 1.52677, "height":2.12012, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/97.jpg"},
+{ "width": 1.27352, "height":0.607815, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Yoghurt/100.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":5},
+{"nw":-1,"n":7,"ne":5,"e":2,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":3,"w":7,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":-1,"s":3,"sw":-1,"w":1,"ogg":7}]
+}

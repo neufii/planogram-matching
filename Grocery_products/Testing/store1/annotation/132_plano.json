@@ -1,0 +1,21 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.612454, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/25.jpg"},
+{ "width": 0.873606, "height":0.869888, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/32.jpg"},
+{ "width": 1.00372, "height":0.692379, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/-1.jpg"},
+{ "width": 0.886617, "height":0.85316, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/33.jpg"},
+{ "width": 1.06691, "height":0.886617, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/31.jpg"},
+{ "width": 0.365242, "height":0.789963, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/21.jpg"},
+{ "width": 0.248141, "height":0.622677, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/19.jpg"},
+{ "width": 0.738848, "height":0.736059, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Snacks/28.jpg"}
+],
+"grafo":[
+{"nw":4,"n":7,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":1},
+{"nw":5,"n":4,"ne":7,"e":0,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":3},
+{"nw":6,"n":3,"ne":4,"e":1,"se":-1,"s":3,"sw":-1,"w":3,"ogg":4},
+{"nw":-1,"n":6,"ne":5,"e":2,"se":-1,"s":2,"sw":-1,"w":-1,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":0,"s":1,"sw":2,"w":5,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":1,"s":2,"sw":3,"w":6,"ogg":7},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":2,"s":3,"sw":-1,"w":-1,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":0,"sw":1,"w":4,"ogg":2}]
+}

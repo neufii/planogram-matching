@@ -1,0 +1,24 @@
+{
+"oggetti": [
+{ "width": 1.05923, "height":1.57713, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/117.jpg"},
+{ "width": 1.27548, "height":1.93939, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/99.jpg"},
+{ "width": 1.10468, "height":2.04545, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/87.jpg"},
+{ "width": 1.25803, "height":1.78145, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/94.jpg"},
+{ "width": 1.34504, "height":2.2259, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/92.jpg"},
+{ "width": 1.2562, "height":2.19559, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Cereals/90.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":10,"se":11,"s":1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":0,"ne":10,"e":11,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":10,"n":12,"ne":3,"e":4,"se":-1,"s":-1,"sw":-1,"w":11,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":5,"se":6,"s":4,"sw":2,"w":12,"ogg":4},
+{"nw":12,"n":3,"ne":5,"e":6,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":8,"se":7,"s":6,"sw":4,"w":3,"ogg":4},
+{"nw":3,"n":5,"ne":8,"e":7,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":3},
+{"nw":5,"n":8,"ne":-1,"e":9,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":9,"s":7,"sw":6,"w":5,"ogg":5},
+{"nw":8,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":7,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":12,"se":2,"s":11,"sw":1,"w":0,"ogg":4},
+{"nw":0,"n":10,"ne":12,"e":2,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":2,"sw":11,"w":10,"ogg":4}]
+}

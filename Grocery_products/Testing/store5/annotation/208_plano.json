@@ -1,0 +1,15 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.657216, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/1.jpg"},
+{ "width": 0.615979, "height":0.64433, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/59.jpg"},
+{ "width": 0.953608, "height":0.742268, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/45.jpg"},
+{ "width": 0.515464, "height":0.32732, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/12.jpg"},
+{ "width": 0.56701, "height":0.35567, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Candy/Bonbons/29.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":4,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":0,"w":-1,"ogg":2}]
+}

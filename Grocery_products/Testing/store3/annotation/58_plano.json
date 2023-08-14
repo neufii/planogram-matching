@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.22409, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Water/50.jpg"},
+{ "width": 2.26331, "height":0.885154, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Water/43.jpg"},
+{ "width": 1.06162, "height":1.18487, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Water/73.jpg"},
+{ "width": 0.946779, "height":1.18207, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Water/80.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":3,"s":2,"sw":1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":0,"e":2,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":0,"ne":-1,"e":3,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":2},
+{"nw":0,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":3}]
+}

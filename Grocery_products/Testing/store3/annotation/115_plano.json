@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.88679, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Rice/31.jpg"},
+{ "width": 5.77987, "height":2.06918, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Rice/10.jpg"},
+{ "width": 3.28302, "height":2.22642, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Rice/22.jpg"},
+{ "width": 3.22013, "height":2.26415, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Rice/9.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":2,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":2,"w":0,"ogg":1},
+{"nw":-1,"n":0,"ne":1,"e":3,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":3}]
+}

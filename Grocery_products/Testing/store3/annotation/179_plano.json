@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.647841, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Creme/48.jpg"},
+{ "width": 1.77741, "height":0.430233, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Choco/15.jpg"},
+{ "width": 0.802326, "height":0.606312, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Dairy/Creme/50.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":2,"ne":2,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":1,"sw":1,"w":0,"ogg":2}]
+}

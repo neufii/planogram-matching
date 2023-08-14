@@ -1,0 +1,9 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.61944, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Choco/34.jpg"},
+{ "width": 0.7, "height":1.66667, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Drinks/Choco/47.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":1}]
+}

@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.17139, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/26.jpg"},
+{ "width": 0.179583, "height":1.14456, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/51.jpg"},
+{ "width": 0.979136, "height":1.18927, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/15.jpg"},
+{ "width": 1.0929, "height":0.587928, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/2.jpg"},
+{ "width": 1.25584, "height":0.751118, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/12.jpg"},
+{ "width": 1.12469, "height":0.375559, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Jars-Cans/Spreads/36.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":1,"e":4,"se":5,"s":3,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":1,"ne":-1,"e":2,"se":4,"s":1,"sw":4,"w":-1,"ogg":2},
+{"nw":1,"n":2,"ne":-1,"e":2,"se":-1,"s":2,"sw":5,"w":2,"ogg":1},
+{"nw":-1,"n":0,"ne":1,"e":5,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":1,"n":5,"ne":1,"e":4,"se":-1,"s":5,"sw":-1,"w":5,"ogg":4},
+{"nw":0,"n":4,"ne":2,"e":4,"se":-1,"s":4,"sw":-1,"w":3,"ogg":5}]
+}

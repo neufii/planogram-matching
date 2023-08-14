@@ -1,0 +1,11 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.17289, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/SoftDrinks/26.jpg"},
+{ "width": 0.968566, "height":1.33006, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/SoftDrinks/27.jpg"},
+{ "width": 0.416503, "height":1.03733, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/SoftDrinks/29.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":1,"ogg":2}]
+}

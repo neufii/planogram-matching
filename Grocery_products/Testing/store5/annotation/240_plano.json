@@ -1,0 +1,13 @@
+{
+"oggetti": [
+{ "width": 1, "height":1.74233, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Choco/19.jpg"},
+{ "width": 2.66258, "height":1.31902, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Choco/20.jpg"},
+{ "width": 0.423313, "height":0.92638, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Choco/-1.jpg"},
+{ "width": 3.59509, "height":2.54601, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Choco/40.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":3,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":3,"w":0,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":-1,"s":3,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":2,"ne":1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":3}]
+}

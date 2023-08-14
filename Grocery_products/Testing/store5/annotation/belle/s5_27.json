@@ -1,0 +1,9 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.677966, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Bakery/129.jpg"},
+{ "width": 0.998305, "height":0.566102, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Bakery/128.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":0,"sw":-1,"w":-1,"ogg":1}]
+}

@@ -1,0 +1,19 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.712644, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/190.jpg"},
+{ "width": 0.248563, "height":0.690374, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/201.jpg"},
+{ "width": 0.556035, "height":0.690374, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/199.jpg"},
+{ "width": 0.568965, "height":0.46408, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/191.jpg"},
+{ "width": 0.446839, "height":0.660201, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/196.jpg"},
+{ "width": 0.587883, "height":0.703065, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training//Food/Jars-Cans/Canned/-1.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":7,"se":3,"s":2,"sw":5,"w":1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":0,"se":4,"s":5,"sw":-1,"w":6,"ogg":3},
+{"nw":-1,"n":0,"ne":7,"e":3,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":4},
+{"nw":0,"n":7,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":1,"n":-1,"ne":-1,"e":2,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":5},
+{"nw":-1,"n":1,"ne":0,"e":4,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":5},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":3,"sw":2,"w":0,"ogg":1}]
+}

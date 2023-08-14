@@ -1,0 +1,32 @@
+{
+"oggetti": [
+{ "width": 1.03419, "height":0.530364, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/31.jpg"},
+{ "width": 0.614035, "height":0.817814, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/70.jpg"},
+{ "width": 1.03981, "height":0.654521, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/78.jpg"},
+{ "width": 0.556005, "height":0.726046, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/66.jpg"},
+{ "width": 0.703779, "height":0.914305, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/60.jpg"},
+{ "width": 1.11687, "height":0.469906, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/74.jpg"},
+{ "width": 1.14116, "height":0.519838, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/Training//Food/Tea/29.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":4,"ne":15,"e":18,"se":16,"s":2,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":5,"ne":19,"e":17,"se":15,"s":4,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":0,"ne":18,"e":11,"se":-1,"s":3,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":2,"ne":-1,"e":16,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":1,"ne":17,"e":15,"se":18,"s":0,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":14,"se":17,"s":1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":13,"se":-1,"s":7,"sw":17,"w":19,"ogg":4},
+{"nw":19,"n":6,"ne":-1,"e":-1,"se":-1,"s":9,"sw":-1,"w":-1,"ogg":5},
+{"nw":17,"n":9,"ne":-1,"e":-1,"se":-1,"s":12,"sw":18,"w":15,"ogg":5},
+{"nw":-1,"n":7,"ne":-1,"e":-1,"se":-1,"s":8,"sw":15,"w":17,"ogg":5},
+{"nw":18,"n":11,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":16,"ogg":6},
+{"nw":-1,"n":12,"ne":-1,"e":-1,"se":-1,"s":10,"sw":16,"w":2,"ogg":6},
+{"nw":15,"n":8,"ne":-1,"e":-1,"se":-1,"s":11,"sw":-1,"w":18,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":19,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":1},
+{"nw":1,"n":17,"ne":9,"e":8,"se":12,"s":18,"sw":0,"w":4,"ogg":5},
+{"nw":0,"n":18,"ne":11,"e":10,"se":-1,"s":-1,"sw":-1,"w":3,"ogg":6},
+{"nw":5,"n":19,"ne":6,"e":9,"se":8,"s":15,"sw":4,"w":1,"ogg":5},
+{"nw":4,"n":15,"ne":8,"e":12,"se":10,"s":16,"sw":2,"w":0,"ogg":6},
+{"nw":-1,"n":-1,"ne":-1,"e":6,"se":7,"s":17,"sw":1,"w":14,"ogg":1}]
+}

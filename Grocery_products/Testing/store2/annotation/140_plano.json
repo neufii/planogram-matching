@@ -1,0 +1,17 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.6375, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/16.jpg"},
+{ "width": 0.525, "height":0.542188, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/54.jpg"},
+{ "width": 1.09141, "height":0.578906, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/36.jpg"},
+{ "width": 1.9125, "height":0.804688, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/44.jpg"},
+{ "width": 2.51641, "height":0.692187, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/7.jpg"},
+{ "width": 0.667188, "height":0.721094, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Coffee/-1.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":4,"s":5,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":2,"sw":-1,"w":0,"ogg":2},
+{"nw":-1,"n":5,"ne":-1,"e":5,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":-1,"s":2,"sw":-1,"w":2,"ogg":1},
+{"nw":5,"n":1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":5,"w":3,"ogg":3},
+{"nw":-1,"n":0,"ne":4,"e":2,"se":4,"s":2,"sw":-1,"w":2,"ogg":5}]
+}

@@ -1,0 +1,19 @@
+{
+"oggetti": [
+{ "width": 1, "height":0.722628, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/62.jpg"},
+{ "width": 0.417883, "height":0.512774, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/79.jpg"},
+{ "width": 0.432482, "height":0.525547, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/66.jpg"},
+{ "width": 0.691606, "height":0.59854, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/83.jpg"},
+{ "width": 0.319343, "height":0.514599, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/25.jpg"},
+{ "width": 0.498175, "height":0.691606, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/78.jpg"},
+{ "width": 0.560219, "height":0.638686, "name":"pippo", "img_path":"X:/Grocery stores/Grocery_products/TrainingFood/Drinks/Juices/73.jpg"}
+],
+"grafo":[
+{"nw":-1,"n":1,"ne":2,"e":5,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":2,"se":-1,"s":0,"sw":-1,"w":-1,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":5,"s":-1,"sw":0,"w":1,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":4,"se":6,"s":5,"sw":-1,"w":2,"ogg":1},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":6,"sw":5,"w":3,"ogg":4},
+{"nw":2,"n":3,"ne":4,"e":6,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":5},
+{"nw":3,"n":4,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":6}]
+}

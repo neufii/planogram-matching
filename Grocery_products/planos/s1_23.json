@@ -1,0 +1,23 @@
+{
+"oggetti": [
+{ "width": 0.993283, "height":1.46096, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Jars-Cans/Sauces/172.jpg"},
+{ "width": 0.813602, "height":0.901763, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Jars-Cans/Sauces/175.jpg"},
+{ "width": 1.1461, "height":1.50126, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Jars-Cans/Sauces/170.jpg"},
+{ "width": 0.719144, "height":1.53526, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Jars-Cans/Sauces/168.jpg"},
+{ "width": 1.00504, "height":1.21788, "name":"pippo", "img_path":"D:/Dataset/Grocery_products/Training/Food/Jars-Cans/Sauces/182.jpg"}
+],
+"grafo":[
+{"nw":9,"n":-1,"ne":3,"e":2,"se":-1,"s":-1,"sw":-1,"w":10,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":3,"se":4,"s":-1,"sw":10,"w":12,"ogg":1},
+{"nw":12,"n":-1,"ne":-1,"e":4,"se":-1,"s":-1,"sw":-1,"w":0,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":5,"s":-1,"sw":0,"w":1,"ogg":1},
+{"nw":1,"n":-1,"ne":6,"e":5,"se":-1,"s":-1,"sw":-1,"w":2,"ogg":2},
+{"nw":3,"n":-1,"ne":-1,"e":7,"se":-1,"s":-1,"sw":-1,"w":4,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":8,"se":-1,"s":-1,"sw":4,"w":-1,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":5,"ogg":2},
+{"nw":-1,"n":-1,"ne":-1,"e":-1,"se":-1,"s":-1,"sw":-1,"w":6,"ogg":4},
+{"nw":-1,"n":-1,"ne":-1,"e":11,"se":0,"s":-1,"sw":-1,"w":-1,"ogg":3},
+{"nw":-1,"n":-1,"ne":1,"e":0,"se":-1,"s":-1,"sw":-1,"w":-1,"ogg":0},
+{"nw":-1,"n":-1,"ne":-1,"e":12,"se":-1,"s":-1,"sw":-1,"w":9,"ogg":3},
+{"nw":-1,"n":-1,"ne":-1,"e":1,"se":2,"s":-1,"sw":-1,"w":11,"ogg":1}]
+}
