@@ -15,5 +15,5 @@ graph LR
 ```
 
 ## Usage
-To run the framework, please take a look at demo notebook.
-To re train the model, please select between training-yolov5 notebook or training-yolov8 notebook.
+- To run the framework, please take a look at demo notebook.
+- To re train the model, please select between training-yolov5 notebook or training-yolov8 notebook.
